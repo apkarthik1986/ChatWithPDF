@@ -1,1 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
 
+# Environment variables
+.env
+
+# ChromaDB
+chroma_db/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Uploaded files
+*.pdf
+
+# Chainlit
+.chainlit/
